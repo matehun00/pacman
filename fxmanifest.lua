@@ -9,7 +9,7 @@ loadscreen 'pacscreen.html'
 
 files {
     'pacscreen.html',
-    'css/style.css',
-    'js/script.js',
+    'style.css',
+    'script.js',
 }
 --html pacman from onnayokheng
